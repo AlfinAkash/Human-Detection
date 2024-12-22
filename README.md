@@ -20,7 +20,7 @@ Edge TPU Support: Optional support for Coral USB Accelerator to enhance performa
 
 ---
 
-Getting Started
+### Getting Started
 
 Hardware Requirements
 
@@ -51,7 +51,7 @@ Raspberry Pi OS
 
 ---
 
-Installation
+### Installation
 
 1. Clone the Repository
 
@@ -76,7 +76,7 @@ python flood_human_detection.py --modeldir model --threshold 0.5 --resolution 12
 
 ---
 
-Usage
+### Usage
 
 Arguments
 
@@ -94,19 +94,19 @@ python flood_human_detection.py --modeldir model --threshold 0.5 --resolution 64
 
 ---
 
-Contributing
+### Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your updates or improvements.
 
 
 ---
 
-License
+### License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
 ---
 
-This version is formatted correctly for GitHub, with headings, bold text for emphasis, and proper code block styling. Let me know if further adjustments are needed!
+### This version is formatted correctly for GitHub, with headings, bold text for emphasis, and proper code block styling. Let me know if further adjustments are needed!
 
