@@ -57,8 +57,8 @@ Installation
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/flood-human-detection.git
-cd flood-human-detection
+git clone https://github.com/AlfinAkash/Human Detection.git
+cd Human Detection 
 
 2. Install Dependencies
 
@@ -178,15 +178,6 @@ python flood_human_detection.py --modeldir model --threshold 0.5 --resolution 64
 
 ---
 
-Folder Structure
-
-flood-human-detection/
-├── model/               # Folder for TensorFlow Lite model and labels
-├── images/              # Folder for test images
-├── documentation/       # Documentation for setup and testing
-├── flood_human_detection.py  # Main detection script
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
 
 
 ---
