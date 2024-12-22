@@ -117,9 +117,9 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ### Contributors
 
-- [Akash Alfin](https://github.com/AlfinAkash)  
+- [Akash A](https://github.com/AlfinAkash)  
 - [Hariharan L](https://github.com/Hariharan)  
-- Leninraj
+- .[Karthikvikraman M](https://github.com/)
 
 
 
