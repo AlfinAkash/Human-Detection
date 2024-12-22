@@ -1,62 +1,47 @@
-
 # Flood Area Human Detection System Using Raspberry Pi and Drone
 
 This project leverages a Raspberry Pi mounted on a drone to detect humans in flood-affected areas. By combining TensorFlow Lite for real-time object detection and OpenCV for image processing, it provides an efficient solution for search and rescue missions.
-
 
 ---
 
 ### Features
 
-Real-Time Human Detection: Identifies humans in live video streams from a Pi Camera or USB Webcam.
-
-Drone Integration: Ensures wide-area surveillance during floods.
-
-Customizable Settings: Adjustable thresholds and resolution for accurate detection.
-
-Edge TPU Support: Optional support for Coral USB Accelerator to enhance performance.
-
-
+- **Real-Time Human Detection**: Identifies humans in live video streams from a Pi Camera or USB Webcam.
+- **Drone Integration**: Ensures wide-area surveillance during floods.
+- **Customizable Settings**: Adjustable thresholds and resolution for accurate detection.
+- **Edge TPU Support**: Optional support for Coral USB Accelerator to enhance performance.
 
 ---
 
 ### Getting Started
 
-Hardware Requirements
+#### Hardware Requirements
 
-Raspberry Pi (with TensorFlow Lite support)
+- Raspberry Pi (with TensorFlow Lite support)
+- Pi Camera or USB Webcam
+- Drone for aerial deployment
+- MicroSD card with Raspberry Pi OS installed
+- Optional: Coral USB Accelerator for faster detection
 
-Pi Camera or USB Webcam
+#### Software Requirements
 
-Drone for aerial deployment
-
-MicroSD card with Raspberry Pi OS installed
-
-Optional: Coral USB Accelerator for faster detection
-
-
-Software Requirements
-
-Python 3.7+
-
-TensorFlow Lite / TFLite Runtime
-
-OpenCV
-
-NumPy
-
-Raspberry Pi OS
-
-
+- Python 3.7+
+- TensorFlow Lite / TFLite Runtime
+- OpenCV
+- NumPy
+- Raspberry Pi OS
 
 ---
 
 ### Installation
 
-1. Clone the Repository
+1. **Clone the Repository**
 
-git clone https://github.com/AlfinAkash/Human-Detection 
-cd Human-Detection
+   ```bash
+   git clone https://github.com/AlfinAkash/Human-Detection
+   cd Human-Detection
+
+
 
 2. Install Dependencies
 
