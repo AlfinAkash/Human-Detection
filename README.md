@@ -111,7 +111,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 - [Akash A](https://github.com/AlfinAkash)  
 - [Hariharan L](https://github.com/Hariharan)  
-- [Karthikvikraman M](https://github.com/)
+- [Karthickvikraman M](https://github.com/)
 
 
 
