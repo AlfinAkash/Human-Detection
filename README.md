@@ -102,6 +102,12 @@ python flood_human_detection.py --modeldir model --threshold 0.5 --resolution 64
 
 ---
 
+### Reference Article 
+
+![Article](https://github.com/AlfinAkash/Human-Detection/blob/7e9fa02d1d2f118a8b0e7cf9e7cc3ec411ee9e59/Human_Object_Detection_for_Real-Time_Camera_using_.pdf)
+
+---
+
 ### Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your updates or improvements.
