@@ -6,7 +6,7 @@ This project leverages a Raspberry Pi mounted on a drone to detect humans in flo
 
 ---
 
-Features
+### Features
 
 Real-Time Human Detection: Identifies humans in live video streams from a Pi Camera or USB Webcam.
 
