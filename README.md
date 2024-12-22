@@ -1,5 +1,4 @@
 
-
 Flood Area Human Detection System Using Raspberry Pi and Drone
 
 This project leverages a Raspberry Pi mounted on a drone to detect humans in flood-affected areas. By combining TensorFlow Lite for real-time object detection and OpenCV for image processing, it provides an efficient solution for search and rescue missions.
@@ -122,5 +121,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-This version is polished and adheres to the professional standards for GitHub repositories. Let me know if you'd like to add or modify anything further!
+This version is formatted correctly for GitHub, with headings, bold text for emphasis, and proper code block styling. Let me know if further adjustments are needed!
 
