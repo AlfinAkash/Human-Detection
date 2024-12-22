@@ -46,7 +46,7 @@ This project leverages a Raspberry Pi mounted on a drone to detect humans in flo
 
 Install the required Python packages by running the following command:
 
-```bash
+
 pip install -r requirements.txt
 
 
