@@ -55,8 +55,7 @@ Raspberry Pi OS
 
 1. Clone the Repository
 
-git clone https://github.com/AlfinAkash/Human-Detection
-cd Human-Detection
+git clone https://github.com/AlfinAkash/Human-Detection cd Human-Detection
 
 2. Install Dependencies
 
