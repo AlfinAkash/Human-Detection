@@ -106,7 +106,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
----
 
-### This version is formatted correctly for GitHub, with headings, bold text for emphasis, and proper code block styling. Let me know if further adjustments are needed!
 
