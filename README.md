@@ -42,34 +42,41 @@ This project leverages a Raspberry Pi mounted on a drone to detect humans in flo
    cd Human-Detection
 
 
+2. **Install Dependencies**
 
-2. Install Dependencies
+Install the required Python packages by running the following command:
 
+```bash
 pip install -r requirements.txt
 
-3. Prepare Model and Labels
+
+3. **Prepare Model and Labels**
 
 Place your TensorFlow Lite model file (detect.tflite) inside the model/ directory.
 
-Include the corresponding labelmap.txt file in the same directory.
+Ensure the labelmap.txt file is included in the same directory.
 
 
-4. Run the Detection Script
+
+4. **Run the Detection Script**
+
+Run the following command to start the human detection:
 
 python flood_human_detection.py --modeldir model --threshold 0.5 --resolution 1280x720
+
 
 
 ---
 
 ### Usage
 
-Arguments
+**Arguments**
 
 --modeldir: Path to the folder containing .tflite model and labelmap.txt.
 
 --threshold: Minimum confidence threshold (default: 0.5).
 
---resolution: Video resolution (e.g., 1280x720).
+--resolution: Video resolution (e.g., 1280x720)..
 
 
 Example
