@@ -94,19 +94,6 @@ python flood_human_detection.py --modeldir model --threshold 0.5 --resolution 64
 
 ---
 
-Folder Structure
-
-flood-human-detection/
-├── model/               # Folder for TensorFlow Lite model and labels
-├── images/              # Folder for test images
-├── documentation/       # Documentation for setup and testing
-├── flood_human_detection.py  # Main detection script
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
-
-
----
-
 Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your updates or improvements.
