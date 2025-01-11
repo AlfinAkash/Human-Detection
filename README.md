@@ -88,7 +88,7 @@ python flood_human_detection.py --modeldir model --threshold 0.5 --resolution 64
 
 ### Testing Results 
 
-![Pic1](https://github.com/AlfinAkash/Human-Detection/blob/a468227b1dd0882f9ead4bd3b6ae30e10579c506/pic1.jpg)
+![Pic1](https://github.com/AlfinAkash/Human-Detection/blob/4c43639e39768f70053f359fdfb73b38565ab475/pic1.jpg)
 
 ![Pic2](https://github.com/AlfinAkash/Human-Detection/blob/a468227b1dd0882f9ead4bd3b6ae30e10579c506/pic2.jpg)
 
