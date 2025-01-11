@@ -90,7 +90,7 @@ python flood_human_detection.py --modeldir model --threshold 0.5 --resolution 64
 
 ![Pic1](https://github.com/AlfinAkash/Human-Detection/blob/4c43639e39768f70053f359fdfb73b38565ab475/pic1.jpg)
 
-![Pic2](https://github.com/AlfinAkash/Human-Detection/blob/a468227b1dd0882f9ead4bd3b6ae30e10579c506/pic2.jpg)
+![Pic2](https://github.com/AlfinAkash/Human-Detection/blob/afaef1e0a93a23c4da7d41d3174545711a8c1e47/pic2.jpg)
 
 ---
 
